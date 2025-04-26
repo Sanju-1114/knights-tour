@@ -57,6 +57,7 @@ Explanation: The sequence is invalid as some moves (e.g., 0 to 3) are not valid 
 
 Feel free to submit Pull Requests or open issues for bugs, enhancements, or suggestions.
 
+
 ## License
 
 This project is licensed under the MIT License.
