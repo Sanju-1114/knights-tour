@@ -6,7 +6,7 @@ This repository contains a C++ solution for [LeetCode problem 2596: Check Knight
 
 The task is to verify if a 0-indexed n x n grid, with values from 0 to n² - 1, forms a valid knight's tour starting from grid[0][0]. A valid tour requires:
 - Starting at grid[0][0] (value 0).
-- Moving to each subsequent value (k to k+1) using valid knight moves: (-2, 1), (-1, 2), (1, 2), (2, 1), (2, -1), (1, -2), (-1, -2), (-2, -1).
+- Moving to each subsequent value (k to k+1) using valid knight moves: (-2, 1), (-1, 2), (1, 2),      (2,  1), (2, -1), (1, -2), (-1, -2), (-2, -1).
 - Visiting all cells exactly once.
 
 
