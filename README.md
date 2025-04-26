@@ -31,7 +31,6 @@ The solution employs recursive backtracking:
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/Sanju-1114/knights-tour.git
-   cd knights-tour
    ```
 
 2. **Compile and run**:
